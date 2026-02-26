@@ -1,4 +1,6 @@
 # 🎬 Netflix Movies & TV Shows Clustering
+
+![Netflix Interface](Netflix_Interface.png)
 **Unsupervised NLP-Based Content Grouping & Recommendation Engine**
 
 ## 📌 Project Overview
